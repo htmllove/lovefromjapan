@@ -1,0 +1,23 @@
+/*===Footer===*/
+
+footer {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items:center;
+    gap: 26px;
+
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+
+    bottom: 0px;
+}
+
+.footerList {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 46px;
+}

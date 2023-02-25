@@ -1,0 +1,27 @@
+/*
+* {
+    border: solid 1px black;
+    */
+    /*
+    padding: 5px;
+}
+*/
+
+
+body {
+    height: 100vh;
+    
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    /*Удалить по назначению*/
+    background-image: url(/IconSet/blackHole.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*
+    */
+    /*
+    background: #c691df;
+    radial-gradient(65.73% 121.38% at 53.78% 50%, rgba(131, 104, 209, 0.81) 0%, rgba(96, 75, 156, 0) 100%), #242231;
+*/
+}

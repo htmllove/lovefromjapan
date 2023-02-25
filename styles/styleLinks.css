@@ -1,0 +1,21 @@
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+a:hover {
+    text-decoration: underline 1px;
+}
+
+.footerList>a {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.973px;
+    line-height: 20px;
+}
